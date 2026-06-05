@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2026-06-05T17:31:58.947+02:00",
+    "type": "chat",
+    "channel": "main",
+    "player": "Steve",
+    "message": "Пример сообщения"
+  }
+]
